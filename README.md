@@ -21,35 +21,28 @@ El auge de la enseñanza en línea impulsó la adopción de plataformas digitale
 Moodle
 
 •	Características Generales: Plataforma de código abierto, altamente personalizable y con una amplia comunidad de usuarios.
-
 •	Fortalezas: Flexibilidad en la creación de cursos, gran cantidad de plugins y recursos educativos.
-
 •	Debilidades: Interfaz menos intuitiva, lo que puede dificultar la navegación para nuevos usuarios.
-
 
 Blackboard
 
 •	Características Generales: Plataforma robusta y bien establecida, orientada principalmente a instituciones educativas grandes.
-
 •	Fortalezas: Soporte técnico sólido y herramientas de evaluación avanzadas que facilitan el seguimiento del progreso del estudiante.
-
 •	Debilidades: Complejidad en el uso y costos elevados, lo que puede limitar su accesibilidad para algunas instituciones.
-
 
 Canva
 
 •	Características Generales: Herramienta de diseño gráfico con capacidades educativas, enfocada en la creación de contenido visual.
-
 •	Fortalezas: Interfaz intuitiva y fácil de usar, ideal para la creación de materiales visuales atractivos.
-
 •	Debilidades: Limitaciones en funcionalidades educativas formales y falta de herramientas de gestión del aprendizaje.
 
 📊 Cuadro comparativo (Opcional)
-| Plataforma | Funcionalidad | Herramientas Pedagógicas | Interfaz | Soporte | Experiencia |
-|------------|---------------|--------------------------|----------|---------|-------------|
-| Moodle     | Código abierto, personalizable, pero interfaz menos amigable y requiere capacitación | Comunidad activa y flexibilidad | Menos intuitiva, requiere capacitación | Disponible | Curva de aprendizaje moderada |
-| Blackboard | Robusta, funciones avanzadas, gestión integral | Amplia variedad | Compleja, curva de aprendizaje significativa | Especializado | Exigente |
-| Canvas     | Intuitiva para crear contenidos visuales, útil como complemento | Enfocada en contenidos multimedia | Amigable y sencilla | Eficiente | Fluida |
+
+| Plataforma | Usabilidad            | Herramientas Pedagógicas | Personalización  | Soporte     | Experiencia   |
+|------------|-----------------------|--------------------------|------------------|-------------|---------------|
+| Moodle     | requiere capacitación | Comunidad activa         |   Alta           | Disponible  | Moderada      |
+| Blackboard | Robusta               | Amplia variedad          |   Limitada       |Especializado| Exigente      |
+| Canvas     | Intuitiva             | Multimedia               |   Básica         | Eficiente   | Fluida        |
 
 🧠 Conclusión
 
@@ -59,10 +52,7 @@ Dadas las características de cada plataforma, evaluaría si la flexibilidad y b
 📚 Referencias
 
 •	Siemens, G. (2013). Learning Analytics: The Emerging Frontier of Learning Analytics. Retrieved from http://www.elearnspace.org/Articles/learninganalytics.htm.
-
 •	Moodle. (n.d.). Moodle Documentation. Retrieved from https://docs.moodle.org/.
-
 •	Blackboard. (n.d.). Blackboard Learn. Retrieved from https://www.blackboard.com/.
-
 •	Canva. (n.d.). Canva for Education. Retrieved from https://www.canva.com/education/.
 
