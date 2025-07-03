@@ -56,7 +56,10 @@ Dadas las características de cada plataforma, evaluaría si la flexibilidad y b
 📚 Referencias
 
 •	Siemens, G. (2013). Learning Analytics: The Emerging Frontier of Learning Analytics. Retrieved from http://www.elearnspace.org/Articles/learninganalytics.htm.
+
 •	Moodle. (n.d.). Moodle Documentation. Retrieved from https://docs.moodle.org/.
+
 •	Blackboard. (n.d.). Blackboard Learn. Retrieved from https://www.blackboard.com/.
+
 •	Canva. (n.d.). Canva for Education. Retrieved from https://www.canva.com/education/.
 
