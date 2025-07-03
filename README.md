@@ -12,7 +12,6 @@ En esta evaluación comparativa se analizaron las plataformas Moodle, Blackboard
 
 Blackboard, Canva, Moodle, Plataforma LMS, Usabilidad
 
-
 🎯 Introducción
 
 El auge de la enseñanza en línea impulsó la adopción de plataformas digitales de gestión de aprendizaje (LMS), las cuales facilitan la enseñanza, evaluación y seguimiento de los estudiantes en entornos virtuales. La diversidad de opciones disponibles requería una evaluación crítica que permitiera identificar cuál se ajustaba mejor a las necesidades específicas de cada institución. El objetivo de esta reseña fue realizar un análisis comparativo de las plataformas Moodle, Blackboard y Canva, considerando sus características, fortalezas y limitaciones, con la finalidad de orientar a docentes y administradores en la selección de herramientas efectivas para potenciar el aprendizaje digital. La justificación radicó en la importancia de promover una utilización eficiente de los recursos tecnológicos, asegurando procesos pedagógicos innovadores, inclusivos y adecuados a los diferentes contextos educativos.
