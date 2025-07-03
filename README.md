@@ -42,6 +42,7 @@ Canva
 
 •	Debilidades: Limitaciones en funcionalidades educativas formales y falta de herramientas de gestión del aprendizaje.
 
+
 📊 Cuadro comparativo (Opcional)
 
 | Plataforma | Usabilidad            | Herramientas Pedagógicas | Personalización  | Soporte     | Experiencia   |
