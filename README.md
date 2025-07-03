@@ -2,7 +2,7 @@ evaluación-LMS
 
 Este repositorio contiene una reseña crítica y comparativa sobre las plataformas LMS Moodle, Blackboard y Canvas, analizando sus características, ventajas, desventajas y herramientas para evaluar su efectividad en entornos de aprendizaje virtual.
 
-Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
+Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas.
 
 📝 Resumen
 
